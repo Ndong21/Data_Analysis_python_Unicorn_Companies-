@@ -8,3 +8,6 @@ How long does it usually take for a company to become a unicorn? Has it always b
 Which countries have the most unicorns? Are there any cities that appear to be industry hubs?
 
 Which investors have funded the most unicorns?
+
+Does amount of funding predict when a company becomes a unicorn?
+
